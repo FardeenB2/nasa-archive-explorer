@@ -1,1 +1,2 @@
 # nasa-apod-explorer
+A searchable archive of 30 years of NASA's Astronomy Picture of the Day — browse by date, discover something random, or search by keyword. Built with Python, Flask, and PostgreSQL.
